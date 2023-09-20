@@ -2,6 +2,8 @@
 
 En este tema se verán los ***conceptos básicos***
 
+![Lenguajes de programación](Tema1/assets/imagen1.jpg)
+
 Se verán los siguientes apartados:
 
 1. primero
@@ -25,6 +27,7 @@ Python     |  Fan de MonthyPython  |  2222006
      println("hola");
    }
    ```
+![Código de Programación](Tema1/assets/imagen2.jpg)
 
 > **AVISO**: Esto debe escribirse en un terminal.
 >
@@ -32,3 +35,5 @@ Python     |  Fan de MonthyPython  |  2222006
 > ```javascript
 > var numero = 5.7
 > ```
+
+![Lenguajes de programación](Tema1/assets/imagen3.png)
